@@ -1,0 +1,9 @@
+8
+coins_1.jpg
+coins_2.jpg
+coins_3.jpg
+coins_4.jpg
+coins_5.jpg
+coins_6.jpg
+coins_7.jpg
+coins_8.jpg
